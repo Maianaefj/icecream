@@ -1,0 +1,39 @@
+h1 { 
+font-family: 'Inter', sans-serif;
+font-size: 36px;
+color: #FFE5D9;
+}
+
+h2 { 
+font-family: 'Inter', sans-serif;
+font-size: 24px; 
+color: #FFE5D9;
+}
+
+h4 { 
+font-family: 'Bowlby One', cursive;
+font-size: 24px;
+color: #9D8189; 
+}
+
+h5 { 
+font-family: 'Bowlby One', cursive;
+font-size: 24px;
+color: #FFE5D9; 
+}
+
+h5:hover { 
+color: #fff3b0;
+}
+
+h6 { 
+font-family: 'Bowlby One', cursive;
+font-size: 20px;
+color: #FFE5D9; 
+}
+
+h6:hover { 
+color: #fff3b0;
+}
+
+

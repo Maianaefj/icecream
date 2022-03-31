@@ -1,0 +1,24 @@
+.banner {
+background-color: #9D8189 ; 
+width: 2000px; 
+height: 145px; 
+}
+
+.banner2 { 
+background-color: #F4ACB7;
+width: 2000px;
+height: 50px;
+}
+
+.banner3 { 
+background-color: #9D8189;
+width: 2000px;
+height: 200px;
+}
+
+.logo { 
+display: flex;
+width: 2000px; 
+height: 145px;
+object-position: right; 
+}

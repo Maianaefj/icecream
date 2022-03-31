@@ -1,0 +1,45 @@
+.button-rubrique {
+font-family: 'Bowlby One', cursive;
+font-size: 20px;
+color: #9D8189; 
+text-decoration: none;
+margin: 80px; 
+padding: 0 auto; 
+}
+
+.button-rubrique:hover {
+color: #D8E2DC;
+}
+
+.button-article { 
+font-family: 'Bowlby One', cursive;
+font-size: 15px;
+color: #9D8189; 
+text-decoration: none;
+margin: 80px; 
+padding: 0 auto; 
+}
+.cardvert:hover {
+background-color: #F4ACB7; 
+}
+
+.reseaux { 
+display: flex; 
+justify-content:space-around;
+font-size: 60px; 
+color: #FFE5D9;
+text-decoration: none; 
+}
+
+.fa-brands { 
+color: #FFE5D9; 
+padding: 10px; 
+}
+
+.fa-brands:hover { 
+color: #fff3b0;
+}
+
+
+
+

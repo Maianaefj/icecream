@@ -1,0 +1,64 @@
+.cards { 
+width: 1400px; 
+margin: 0 auto ; 
+}
+
+.cardvert {
+flex-basis: 250px;
+flex-grow: 1;
+margin: 10px; 
+background-color: #D8E2DC;
+width: 300px;
+height: 200px;
+padding: 10px;
+margin-right: 10px
+margin-top: 20px;
+text-align: center; 
+box-shadow: 10px 10px 10px #D8E2DC
+}
+
+.glaces {
+width: 210px;
+height: 110px;
+object-fit: cover; 
+object-position: center;
+}
+
+.cocktail {
+width: 210px;
+height: 110px;
+object-fit: cover; 
+object-position: center; 
+}
+
+.gaufres {
+width: 210px;
+height: 110px;
+object-fit: cover; 
+object-position: center;
+}
+
+.flamant {
+width: 210px;
+height: 110px;
+object-fit: cover; 
+object-position: top;
+}
+
+.framboise {
+width: 210px;
+height: 110px;
+object-fit: cover; 
+object-position: center;
+}
+
+.alignement1 {
+display: flex; 
+}
+
+.alignement2 {
+display: flex; 
+width: 1000px; 
+margin: 0 auto; 
+}
+
